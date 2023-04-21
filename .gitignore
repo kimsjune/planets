@@ -1,4 +1,1 @@
-*.dat
-!final.dat
-results/*
-!results/data/
+log*
