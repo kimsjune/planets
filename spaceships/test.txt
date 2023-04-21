@@ -1,1 +1,2 @@
 The first commit
+The second commit that will be discarded
